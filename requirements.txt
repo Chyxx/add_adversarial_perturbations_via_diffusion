@@ -1,0 +1,8 @@
+blobfile==2.1.1
+mpi4py==3.1.5
+numpy==1.24.3
+Pillow==10.1.0
+tensorflow==2.15.0
+tensorflow_intel
+tqdm==4.65.0
+visdom==0.2.4
